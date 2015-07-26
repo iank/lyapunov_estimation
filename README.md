@@ -4,5 +4,4 @@ Rosenstein, Michael T., James J. Collins, and Carlo J. De Luca. "A practical met
 
 See
 
-http://blog.iank.org/reconstructing-phase-space-and-estimating-lyapunov-exponent-from-experimental-time-series.html
-
+http://blog.iank.org/reconstructing-phase-space-and-estimating-maximal-lyapunov-exponent-from-experimental-time-series.html
